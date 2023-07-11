@@ -1,0 +1,12 @@
+---
+title: "Breakfasts"
+subtitle: "Morning Bliss"
+---
+
+Awaken your senses and start your day off right with an array of mouthwatering breakfast recipes that will tantalize your taste buds. From hearty classics to inventive twists, these breakfasts will transform your mornings into a deliciously memorable experience.  
+
+## Contents 
+
+[Omurice]()
+
+[Savory Toast]()

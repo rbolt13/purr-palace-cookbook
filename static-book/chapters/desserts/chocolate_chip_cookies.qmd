@@ -1,0 +1,80 @@
+# Chocloalte Chip Cookies {.unnumbered}
+
+::: columns
+::: {.column width="30%"}
+**Preheat Oven:** 350 Degrees F
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+**Prep Time:** 15 Minutes
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+**Cook Time:** 10 Minutes
+:::
+:::
+
+## Ingredients 
+
+::: columns
+::: {.column width="48%"}
+
+* 1 cup of softened butter
+
+* 1 cup of white sugar
+
+* 1 cup of brown sugar
+
+* 2 tsp of vanilla extract
+
+* 2 eggs (room temp.)
+
+* 2 tsp hot water
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="48%"}
+
+* 1 tsp baking soda
+
+* $\frac{1}{2}$ tsp salt
+
+* $\frac{1}{2}$ tsp of baking powder
+
+* 3 cups of flour
+
+* 1 cup of chocolate chips
+
+:::
+:::
+
+## Directions
+
+1. Preheat oven to 350 degree F.
+
+2. Beat together the butter, white sugar, and brown sugar in an electric mixer. 
+
+3. Beat in eggs one at a time, and then stir in the vanilla. 
+
+4. Dissolve baking soda into hot water. Add to batter, along with salt. 
+
+5. Stir in flour and chocolate chips.
+
+6. Drop spoonfuls of dough 2 inches apart onto ungreased baking sheets.
+
+7. Bake about 10 minutes, until edges are nicely browned. 
+
+## Sources
+
+[Best Chocolate Chip Cookies](https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/)
+
+

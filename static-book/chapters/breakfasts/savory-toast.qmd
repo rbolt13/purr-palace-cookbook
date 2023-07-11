@@ -1,0 +1,54 @@
+# Savory Toast {.unnumbered}
+
+::: columns
+::: {.column width="30%"}
+**Preheat Oven:** NA
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+**Prep Time:** 10 Minutes
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+**Cook Time:** 5 Minutes
+:::
+:::
+
+## Ingredients 
+
+::: columns
+::: {.column width="48%"}
+
+* two slices of bread
+
+* pesto
+
+:::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="48%"}
+
+* hard boilded egg (or tinned fish)
+
+* sun dried tomatoes and oil
+
+:::
+:::
+
+## Directions
+
+1. Toast the bread and add a layer of pesto.
+
+2. Cut up a hard boiled egg and place on top of pesto with sun dried tomatoes and oil. 
+
+## Sources
+
+[Savory Toast](https://www.heffner.dev/savory-toast)
