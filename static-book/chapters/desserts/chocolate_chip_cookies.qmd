@@ -16,7 +16,7 @@
 :::
 
 ::: {.column width="30%"}
-**Cook Time:** 10 Minutes
+**Bake Time:** 10 Minutes
 :::
 :::
 

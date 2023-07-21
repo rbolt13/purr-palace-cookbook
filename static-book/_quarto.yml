@@ -17,6 +17,7 @@ book:
         - chapters/snacks/hummus.qmd
     - part: chapters/desserts/desserts.qmd
       chapters: 
+        - chapters/desserts/cherry-hand-pies.qmd
         - chapters/desserts/chocolate_chip_cookies.qmd
         - chapters/desserts/spritz_cookies.qmd
 

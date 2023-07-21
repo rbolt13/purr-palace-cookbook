@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Purr Palace Cookbook",
     "section": "",
-    "text": "To Do\n\nAdd recipes for omurice and hummus.\nAdd the rest of Tanners blog recipes.\nAdd photo recipes.\nAdd past saved recipes.\nAdd pictures.\nAdd style file."
+    "text": "To Do\n\nAdd recipes for omurice and hummus.\nAdd the rest of Tanners blog recipes.\nAdd photo recipes.\nAdd: banh mi, sausage and potatoes, spaghetti casserole\nAdd past saved recipes.\nAdd pictures.\nAdd style file."
   },
   {
     "objectID": "chapters/breakfasts/breakfasts.html",
@@ -133,11 +133,39 @@
     "text": "Contents\nChocolate Chip Cookie\nSpritz Cookies"
   },
   {
+    "objectID": "chapters/desserts/cherry-hand-pies.html",
+    "href": "chapters/desserts/cherry-hand-pies.html",
+    "title": "Cherry Hand Pies",
+    "section": "",
+    "text": "Preheat Oven: 375° F\n\n\n\nPrep Time: 1hr 30min\n\n\n\nBake Time: 20-25min"
+  },
+  {
+    "objectID": "chapters/desserts/cherry-hand-pies.html#ingredients",
+    "href": "chapters/desserts/cherry-hand-pies.html#ingredients",
+    "title": "Cherry Hand Pies",
+    "section": "Ingredients",
+    "text": "Ingredients\n\n\nPie Crust\n\n2 \\(\\frac{1}{2}\\) cups (150 grams) all-purpose flour\n4 teaspoons granulated sugar (optional)\n1 teaspoon salt\n1 cup (115 grams) cold unsalted butter*, diced into \\(\\frac{1}{4}\\)-inch cubes\n\\(\\frac{1}{2}\\) cup ice water\n\n\n\n\nCherry Filling\n\n\\(\\frac{1}{2}\\) cup (4oz/115g) sugar\n2 tablespoons cornstarch\n1 tablespoon lemon juice\n\\(\\frac{1}{2}\\) cup (4floz/115ml) water\n2 cups (10oz/284g) cherries, pitted and halved\n1 egg wash\nsugar to sprinkle on top"
+  },
+  {
+    "objectID": "chapters/desserts/cherry-hand-pies.html#directions",
+    "href": "chapters/desserts/cherry-hand-pies.html#directions",
+    "title": "Cherry Hand Pies",
+    "section": "Directions",
+    "text": "Directions\n\nPrepare the pie crust:\n\nCombine the dry ingredients (four, sugar, and salt) in a food processor.\nCut the butter into the dry ingredients by briefly pulsing the butter and dry ingredients together 5 to 7 times until the butter is evenly dispersed into pea-sized (or smaller) bits.\nTransfer to a mixing bowl and quickly mix the water into the dough with a spatula.\nForm a dough ball using your hands, and then flatten the ball into a \\(\\frac{3}{4}\\) inch thick disk.\nWrap and chill dough in the refrigerator for at least 1 hour or up to 3 days, until ready to roll out and use.\n\nPreheat the oven to 375 degrees.\nMake the filling:\n\nIn a saucepan over medium heat, combine sugar, cornstarch, lemon juice, and water.\nLet simmer for 2-3 minutes, until thickened.\nRemove from heat and stir in the cherries.\nSet aside to cool.\n\nRoll out pie crust and cut out 5 inch circles. (We trace bowls)\nSpoon a small amount of cherry filling into the center of the cut pie crust, moisten the edge with some egg wash and fold over into a half-moon shape. Press down with your fingers or a fork to seal.\nPlace assembled pies on the baking sheets and refrigerate for 30 minutes.\nWhen ready to bake, cut a few slits in the top crust of the pies, brush with the egg wash, and sprinkle sugar on top.\nBake for about 20-25 minutes, or until the crust is golden brown.\nStore pies, loosely covered, at room temperature for up to 2 days. Refresh in a 300°F (150°C) oven for 10 minutes."
+  },
+  {
+    "objectID": "chapters/desserts/cherry-hand-pies.html#sources",
+    "href": "chapters/desserts/cherry-hand-pies.html#sources",
+    "title": "Cherry Hand Pies",
+    "section": "Sources",
+    "text": "Sources\nHomemade Pie Crust\nCherry Hand Pies from Scratch"
+  },
+  {
     "objectID": "chapters/desserts/chocolate_chip_cookies.html",
     "href": "chapters/desserts/chocolate_chip_cookies.html",
     "title": "Chocloalte Chip Cookies",
     "section": "",
-    "text": "Preheat Oven: 350 Degrees F\n\n\n\nPrep Time: 15 Minutes\n\n\n\nCook Time: 10 Minutes"
+    "text": "Preheat Oven: 350 Degrees F\n\n\n\nPrep Time: 15 Minutes\n\n\n\nBake Time: 10 Minutes"
   },
   {
     "objectID": "chapters/desserts/chocolate_chip_cookies.html#ingredients",

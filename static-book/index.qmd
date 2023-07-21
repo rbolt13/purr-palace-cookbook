@@ -10,6 +10,8 @@ This book compiles all the recipes that Tanner and Randi use at the Purr Palace.
 
 * Add photo recipes.
 
+* Add: banh mi, sausage and potatoes, spaghetti casserole
+
 * Add past saved recipes. 
 
 * Add pictures. 
