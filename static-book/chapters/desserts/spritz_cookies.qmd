@@ -1,7 +1,7 @@
 # Spritz Cookies {.unnumbered}
 ::: columns
 ::: {.column width="30%"}
-**Preheat Oven:** 400 Degrees F
+**Preheat Oven:** 400&deg; F
 :::
 
 ::: {.column width="5%"}

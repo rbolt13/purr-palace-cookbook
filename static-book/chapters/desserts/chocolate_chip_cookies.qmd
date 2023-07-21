@@ -1,8 +1,8 @@
-# Chocloalte Chip Cookies {.unnumbered}
+# Chocolate Chip Cookies {.unnumbered}
 
 ::: columns
 ::: {.column width="30%"}
-**Preheat Oven:** 350 Degrees F
+**Preheat Oven:** 350&deg; F
 :::
 
 ::: {.column width="5%"}

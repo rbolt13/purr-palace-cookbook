@@ -1,15 +1,15 @@
-# Hummas {.unnumbered}
+# Hummus {.unnumbered}
 
 ::: columns
 ::: {.column width="30%"}
-**Serving Size:** ?
+**Serving Size:** NA
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="30%"}
-**Prep Time:** ? Minutes
+**Prep Time:** 10 Minutes
 :::
 
 ::: {.column width="5%"}
@@ -25,7 +25,19 @@
 ::: columns
 ::: {.column width="48%"}
 
-* 
+**Main**
+
+* 2 cans of garbanzo beans
+
+* olive oil
+
+* tahini
+
+* half of a lemon
+
+* garlic cloves or pre-minced garlic
+
+* salt 
 
 :::
 
@@ -34,15 +46,40 @@
 
 ::: {.column width="48%"}
 
-* 
+**Optional**
+
+* paprika
+
+* cumin
+
+* cayenne pepper
+
+* red pepper
+
+* kalamata olives
+
+* harissa
 
 :::
 :::
 
 ## Directions
 
-1. 
+1. Open and drain the cans of garbanzo beans while reserving the liquid from one can. 
+
+2. Dump the drained beans into the food processor. 
+
+3. Add garlic, a heaping spoonful of tahini, and a few healthy glugs of olive oil.
+
+4. Pulse food a few times to start breaking up the beans. 
+
+5. Squeeze in the lemon juice (do not include seeds), salt and add extra spices if wanted. Note: go light on the salt at first and **taste as you go**. 
+
+6. Start slowing adding the reserved liquid to the food processor and pulse utnil the hummas gets to a consistency you like. 
+
+7. If you're using other ingredience (like olives, roasted bell pepers, or mama's lil peppers) include some chopped in the early stages, and the save some to set on top for the finished product for a fancier presentation. 
 
 ## Sources
 
 [hummus](https://www.heffner.dev/hummus)
+
