@@ -2,14 +2,7 @@
 
 ::: columns
 ::: {.column width="30%"}
-**Preheat Oven:** 375&deg; F
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="30%"}
-**Prep Time:** 1hr 30min 
+**Prep Time:** 2hrs
 :::
 
 ::: {.column width="5%"}
@@ -18,7 +11,16 @@
 ::: {.column width="30%"}
 **Bake Time:** 20-25min
 :::
+
+::: {.column width="5%"}
 :::
+
+::: {.column width="30%"}
+**Total Time:** 2.5hrs
+:::
+:::
+
+![](img/chp.png)
 
 ## Ingredients 
 
@@ -77,9 +79,7 @@
     
     e. Wrap and chill dough in the refrigerator for at least 1 hour or up to 3 days, until ready to roll out and use. 
 
-2. Preheat the oven to 375 degrees. 
-
-3. Make the filling: 
+2. Make the filling: 
 
     a. In a saucepan over medium heat, combine sugar, cornstarch, lemon juice, and water.
     
@@ -89,11 +89,13 @@
     
     d. Set aside to cool.
   
-4. Roll out pie crust and cut out 5 inch circles. (We trace bowls)
+3. Roll out pie crust and cut out 5 inch circles. (We trace bowls)
 
-5. Spoon a small amount of cherry filling into the center of the cut pie crust, moisten the edge with some egg wash and fold over into a half-moon shape. Press down with your fingers or a fork to seal.
+4. Spoon a small amount of cherry filling into the center of the cut pie crust, moisten the edge with some egg wash and fold over into a half-moon shape. Press down with your fingers or a fork to seal.
 
-6. Place assembled pies on the baking sheets and refrigerate for 30 minutes.
+5. Place assembled pies on the baking sheets and refrigerate for 30 minutes.
+
+6. Preheat the oven to 375&deg; F.
 
 7. When ready to bake, cut a few slits in the top crust of the pies, brush with the egg wash, and sprinkle sugar on top.
 

@@ -133,13 +133,6 @@
     "text": "Contents\nCherry Hand Pies\nChocolate Chip Cookie\nSpritz Cookies"
   },
   {
-    "objectID": "chapters/desserts/cherry-hand-pies.html",
-    "href": "chapters/desserts/cherry-hand-pies.html",
-    "title": "Cherry Hand Pies",
-    "section": "",
-    "text": "Preheat Oven: 375° F\n\n\n\nPrep Time: 1hr 30min\n\n\n\nBake Time: 20-25min"
-  },
-  {
     "objectID": "chapters/desserts/cherry-hand-pies.html#ingredients",
     "href": "chapters/desserts/cherry-hand-pies.html#ingredients",
     "title": "Cherry Hand Pies",
@@ -151,7 +144,7 @@
     "href": "chapters/desserts/cherry-hand-pies.html#directions",
     "title": "Cherry Hand Pies",
     "section": "Directions",
-    "text": "Directions\n\nPrepare the pie crust:\n\nCombine the dry ingredients (four, sugar, and salt) in a food processor.\nCut the butter into the dry ingredients by briefly pulsing the butter and dry ingredients together 5 to 7 times until the butter is evenly dispersed into pea-sized (or smaller) bits.\nTransfer to a mixing bowl and quickly mix the water into the dough with a spatula.\nForm a dough ball using your hands, and then flatten the ball into a \\(\\frac{3}{4}\\) inch thick disk.\nWrap and chill dough in the refrigerator for at least 1 hour or up to 3 days, until ready to roll out and use.\n\nPreheat the oven to 375 degrees.\nMake the filling:\n\nIn a saucepan over medium heat, combine sugar, cornstarch, lemon juice, and water.\nLet simmer for 2-3 minutes, until thickened.\nRemove from heat and stir in the cherries.\nSet aside to cool.\n\nRoll out pie crust and cut out 5 inch circles. (We trace bowls)\nSpoon a small amount of cherry filling into the center of the cut pie crust, moisten the edge with some egg wash and fold over into a half-moon shape. Press down with your fingers or a fork to seal.\nPlace assembled pies on the baking sheets and refrigerate for 30 minutes.\nWhen ready to bake, cut a few slits in the top crust of the pies, brush with the egg wash, and sprinkle sugar on top.\nBake for about 20-25 minutes, or until the crust is golden brown.\nStore pies, loosely covered, at room temperature for up to 2 days. Refresh in a 300°F (150°C) oven for 10 minutes."
+    "text": "Directions\n\nPrepare the pie crust:\n\nCombine the dry ingredients (four, sugar, and salt) in a food processor.\nCut the butter into the dry ingredients by briefly pulsing the butter and dry ingredients together 5 to 7 times until the butter is evenly dispersed into pea-sized (or smaller) bits.\nTransfer to a mixing bowl and quickly mix the water into the dough with a spatula.\nForm a dough ball using your hands, and then flatten the ball into a \\(\\frac{3}{4}\\) inch thick disk.\nWrap and chill dough in the refrigerator for at least 1 hour or up to 3 days, until ready to roll out and use.\n\nMake the filling:\n\nIn a saucepan over medium heat, combine sugar, cornstarch, lemon juice, and water.\nLet simmer for 2-3 minutes, until thickened.\nRemove from heat and stir in the cherries.\nSet aside to cool.\n\nRoll out pie crust and cut out 5 inch circles. (We trace bowls)\nSpoon a small amount of cherry filling into the center of the cut pie crust, moisten the edge with some egg wash and fold over into a half-moon shape. Press down with your fingers or a fork to seal.\nPlace assembled pies on the baking sheets and refrigerate for 30 minutes.\nPreheat the oven to 375° F.\nWhen ready to bake, cut a few slits in the top crust of the pies, brush with the egg wash, and sprinkle sugar on top.\nBake for about 20-25 minutes, or until the crust is golden brown.\nStore pies, loosely covered, at room temperature for up to 2 days. Refresh in a 300°F (150°C) oven for 10 minutes."
   },
   {
     "objectID": "chapters/desserts/cherry-hand-pies.html#sources",
@@ -215,5 +208,12 @@
     "title": "Spritz Cookies",
     "section": "Chocolate Sprits",
     "text": "Chocolate Sprits\nStir in 2 ounces melted unsweetened chocolate (cool) into butter mixture."
+  },
+  {
+    "objectID": "chapters/desserts/cherry-hand-pies.html",
+    "href": "chapters/desserts/cherry-hand-pies.html",
+    "title": "Cherry Hand Pies",
+    "section": "",
+    "text": "Prep Time: 2hrs\n\n\n\nBake Time: 20-25min\n\n\n\nTotal Time: 2.5hrs"
   }
 ]
