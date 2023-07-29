@@ -2,13 +2,6 @@
 
 ::: columns
 ::: {.column width="30%"}
-**Preheat Oven:** 350&deg; F
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="30%"}
 **Prep Time:** 15 Minutes
 :::
 
@@ -17,6 +10,13 @@
 
 ::: {.column width="30%"}
 **Bake Time:** 10 Minutes
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+**Total Time:** 40 Minutes
 :::
 :::
 
@@ -59,7 +59,7 @@
 
 ## Directions
 
-1. Preheat oven to 350 degree F.
+1. Preheat oven to 350&deg; F.
 
 2. Beat together the butter, white sugar, and brown sugar in an electric mixer. 
 

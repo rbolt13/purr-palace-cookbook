@@ -3,6 +3,7 @@ project:
 
 book:
   title: "Purr Palace Cookbook"
+  favicon: img/lulu-head.PNG
   subtitle: "Culinary Treasures Revealed"
   author: "Randi Bolt and Tanner Heffner"
   date: "7-6-2023"

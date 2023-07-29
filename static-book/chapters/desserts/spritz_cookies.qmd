@@ -1,13 +1,6 @@
 # Spritz Cookies {.unnumbered}
 ::: columns
 ::: {.column width="30%"}
-**Preheat Oven:** 400&deg; F
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="30%"}
 **Prep Time:** 15 Minutes
 :::
 
@@ -15,7 +8,14 @@
 :::
 
 ::: {.column width="30%"}
-**Cook Time:** 6-9 Minutes
+**Bake Time:** 6-9 Minutes
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+**Total Time:** 40 Minutes
 :::
 :::
 
@@ -48,7 +48,7 @@
 
 ## Directions 
 
-1. Preheat oven to 400 degrees F. 
+1. Preheat oven to 400&deg; F. 
 
 2. Beat together butter and sugar. 
 
@@ -62,4 +62,4 @@
 
 ## Chocolate Sprits
 
-Stir in 2 ounces melted unsweetened chocolate (cool) into butter mixture. 
+Stir in 2 ounces melted unsweetened chocolate (cool) into butter mixture.
