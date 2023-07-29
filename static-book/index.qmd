@@ -1,3 +1,17 @@
+<html>
+  
+<body>
+    <center>
+        <object data=
+"img/lulu-head.PNG"
+                width="300" 
+                height="400"> 
+        </object>
+    </center>
+</body>
+  
+</html>
+
 # Introduction {.unnumbered}
 
 This book compiles all the recipes that Tanner and Randi use at the Purr Palace. 
