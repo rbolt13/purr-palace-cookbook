@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Purr Palace Cookbook",
     "section": "",
-    "text": "To Do\n\nAdd Tanner’s blog recipies, omurice, banh mi, sausage and potatoes, spaghetti casserole, photo recipes (baklava), and saved recipes (pineapple pork tacos).\nAdd pictures to all recipes.\nAdd scss style file."
+    "text": "This book compiles all the recipes that Tanner and Randi use at the Purr Palace."
   },
   {
     "objectID": "chapters/breakfasts/breakfasts.html",
@@ -133,6 +133,13 @@
     "text": "Contents\nCherry Hand Pies\nChocolate Chip Cookie\nSpritz Cookies"
   },
   {
+    "objectID": "chapters/desserts/cherry-hand-pies.html",
+    "href": "chapters/desserts/cherry-hand-pies.html",
+    "title": "Cherry Hand Pies",
+    "section": "",
+    "text": "Prep Time: 2hrs\n\n\n\nBake Time: 20-25min\n\n\n\nTotal Time: 2.5hrs"
+  },
+  {
     "objectID": "chapters/desserts/cherry-hand-pies.html#ingredients",
     "href": "chapters/desserts/cherry-hand-pies.html#ingredients",
     "title": "Cherry Hand Pies",
@@ -208,12 +215,5 @@
     "title": "Spritz Cookies",
     "section": "Chocolate Sprits",
     "text": "Chocolate Sprits\nStir in 2 ounces melted unsweetened chocolate (cool) into butter mixture."
-  },
-  {
-    "objectID": "chapters/desserts/cherry-hand-pies.html",
-    "href": "chapters/desserts/cherry-hand-pies.html",
-    "title": "Cherry Hand Pies",
-    "section": "",
-    "text": "Prep Time: 2hrs\n\n\n\nBake Time: 20-25min\n\n\n\nTotal Time: 2.5hrs"
   }
 ]
